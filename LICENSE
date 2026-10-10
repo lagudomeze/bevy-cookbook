@@ -1,0 +1,37 @@
+# 许可与署名
+
+## 本文档
+
+除代码片段外，本手册的正文采用 **MIT 许可**：
+
+```
+MIT License
+
+Copyright (c) 2026 The Bevy Cookbook contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+> 请把上面的 `The Bevy Cookbook contributors` 替换为你的署名/组织名。
+
+## 代码片段来自 Bevy
+
+本手册中的 Rust/WGSL 代码片段摘自 [Bevy Engine](https://github.com/bevyengine/bevy)（`examples/` 与 `crates/`）。
+Bevy 采用 **MIT OR Apache-2.0** 双许可，因此这些片段同样可在 MIT/Apache-2.0 下使用。
+使用时请保留对 Bevy Engine 项目的署名。
